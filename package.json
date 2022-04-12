@@ -1,0 +1,26 @@
+{
+    "devDependencies": {
+        "typescript": "^4.6.3"
+    },
+    "name": "curso-de-fundamentos-de-typescript",
+    "description": "Curso de Platzi",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GaleedGutierrez/Curso-de-Fundamentos-de-TypeScript.git"
+    },
+    "keywords": [
+        "typescript",
+        "javascript"
+    ],
+    "author": "Galeed Gutierrez <galeedeveloper@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GaleedGutierrez/Curso-de-Fundamentos-de-TypeScript/issues"
+    },
+    "homepage": "https://github.com/GaleedGutierrez/Curso-de-Fundamentos-de-TypeScript#readme"
+}
