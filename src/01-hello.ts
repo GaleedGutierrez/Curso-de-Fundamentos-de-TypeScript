@@ -1,2 +1,2 @@
 const myName = 'Galeed';
-console.log(myName)
+console.log(myName);
