@@ -1,6 +1,9 @@
 (() => {
+    interface product {
+        prize: number;
+    }
     const myCart = [];
-    const products: any = [];
+    const products: product[] = [];
     const limit = 2;
 
     async function getProducts() {
@@ -33,7 +36,7 @@
     const person = {
         name: 'Nicolas',
         lastName: 'Molina'
-    }
+    };
     // const rta = person + limit;
-    // console.log(rta);
+    console.log(person);
 });
