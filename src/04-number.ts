@@ -9,7 +9,7 @@
     console.log({customerAge});
 
     let productInStock: number;
-    console.log({productInStock});
+    // console.log({productInStock});
     // if (productInStock > 10) { // Error
     //     console.log('Is greater');
     // }
