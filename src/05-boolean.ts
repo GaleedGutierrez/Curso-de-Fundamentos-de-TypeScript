@@ -13,5 +13,5 @@
     console.log({isNew});
 
     const byBoolean: boolean = true;
-    let xd: string = undefined;
+    // let xd: string = undefined;
 })()
