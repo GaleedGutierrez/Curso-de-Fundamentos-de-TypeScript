@@ -15,6 +15,6 @@
     mixed.push([]);
 
     let numbers = ['asd'];
-    const anotherNumber = numbers.map(item => item * 2);
-    console.log(anotherNumber);
+    // const anotherNumber = numbers.map(item => item * 2);
+    // console.log(anotherNumber);
 })()
