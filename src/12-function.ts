@@ -6,12 +6,10 @@
         createdAt: Date,
         stock: number,
         size: Size
-    ) {
-        return {
-            title,
-            createdAt,
-            stock,
-            size,
+    ): () => {} {
+        return function () {
+            let xd = 0;
+            return xd;
         };
     }
 
