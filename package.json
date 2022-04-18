@@ -22,5 +22,8 @@
     "bugs": {
         "url": "https://github.com/GaleedGutierrez/Curso-de-Fundamentos-de-TypeScript/issues"
     },
-    "homepage": "https://github.com/GaleedGutierrez/Curso-de-Fundamentos-de-TypeScript#readme"
+    "homepage": "https://github.com/GaleedGutierrez/Curso-de-Fundamentos-de-TypeScript#readme",
+    "dependencies": {
+        "date-fns": "^2.28.0"
+    }
 }
