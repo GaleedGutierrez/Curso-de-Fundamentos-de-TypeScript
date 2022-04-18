@@ -18,7 +18,7 @@
         stock: 10,
     });
     addProduct({
-        title: 'Pro1',
+        title: 'Pro2',
         createdAt: new Date(),
         stock: 11,
         size: 'XL'
